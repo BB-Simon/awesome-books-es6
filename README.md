@@ -57,7 +57,7 @@
 ### Key Features <a name="key-features"></a>
 - **[Dynamic Book List]**
 - **[Add a Book]**
-- **[Remove a Book From]**
+- **[Remove a Book]**
 - **[Save the book list to local storage]**
 - **[Update the book list on the local storage]**
 - **[Tab navigation bar]**
